@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://jnollen13.github.io/flamearrowgame/](https://jnollen13.github.io/flamearrowgame/)
+* Open this page at [https://jnollen13.github.io/flamearrowgame/](https://jnollen13.github.io/flamearrowgame/)!
 
 ## Use as Extension
 
@@ -31,3 +31,7 @@ This image may take a few minutes to refresh.
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+
+* Open this page at [https://jnollen13.github.io/flamearrowgame/](https://jnollen13.github.io/flamearrowgame/)!
